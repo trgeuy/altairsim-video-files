@@ -1,0 +1,1 @@
+Convert chapter 1 of the CP/M manual, and chapter 1 and appendix D of the BASIC-80 manual, from Documentation to Markdown files in Reference. Fix obvious OCR errors.

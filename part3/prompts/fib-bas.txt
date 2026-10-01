@@ -1,0 +1,1 @@
+Write a BASIC program called FIB.BAS that prints the Fibonacci numbers up to 100. Run it in MBASIC on the Altair, and save it on the Altair's disk.

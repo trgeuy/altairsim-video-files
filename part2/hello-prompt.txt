@@ -1,0 +1,1 @@
+Using the altairsim MCP tools, boot the CP/M machine and assemble and run HELLO.ASM off its disk. It should print HELLO, WORLD. If it doesn't, debug it in the simulator and fix the source.

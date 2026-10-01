@@ -1,0 +1,1 @@
+/statusline Show the model, the effort level, how much of the context window is used, how much of the 5-hour and weekly usage is left, and when the 5-hour window resets. Color each number green, then yellow, then red as it runs low.

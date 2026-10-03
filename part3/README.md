@@ -1,6 +1,6 @@
 # Part 3 - Setting up a project folder
 
-Video: coming soon.
+Video: https://youtu.be/IuWCq-S_dW8
 
 ## 1. Install the developer tools (Terminal, one time only)
 

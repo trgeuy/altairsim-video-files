@@ -10,7 +10,7 @@ top right of the file.
 |---|---|---|
 | 1 | [Installing and running altairsim](https://youtu.be/VgnYONLjnp0) | [part1/](part1/) |
 | 2 | [Installing Claude Code and connecting it to altairsim](https://youtu.be/fJCYAMyUkCo) | [part2/](part2/) |
-| 3 | Setting up a project folder (coming soon) | [part3/](part3/) |
+| 3 | [Setting up a project folder](https://youtu.be/IuWCq-S_dW8) | [part3/](part3/) |
 
 The full series: https://www.youtube.com/playlist?list=PLSoqnaEz8pQc
 

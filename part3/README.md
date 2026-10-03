@@ -11,18 +11,27 @@ xcode-select --install
 macOS asks if you want to install the command line developer tools. Click **Install**. This gives
 you `git`, Python and a compiler.
 
+Windows and Linux: Claude Code's [setup page](https://code.claude.com/docs/en/setup) says what it needs
+on your system. On Windows, see [Set up on Windows](https://code.claude.com/docs/en/setup#set-up-on-windows)
+(Git for Windows). On Linux, install git from your package manager:
+[git-scm.com/install/linux](https://git-scm.com/install/linux).
+
 Optional: [Homebrew](https://brew.sh) installs more tools with one command. For example,
 `brew install poppler` gives you `pdftotext`, which converts PDF files to text.
 
 ## 2. Make the project folder (Terminal)
 
 ```
-cp -R ~/altairsim/examples/cpm ~/altair-project
+mkdir ~/altair-project
+cp ~/altairsim/examples/cpm/cpm22-buffered.toml ~/altairsim/examples/cpm/cpm22b23-56k.dsk ~/altair-project/
 cd ~/altair-project
-mkdir spare Documentation Reference
-cp cpm22-buffered.toml cpm22-buffered.ini cpm22b23-56k.dsk spare/
+mkdir spare
+cp cpm22-buffered.toml cpm22b23-56k.dsk spare/
 claude mcp add altairsim --scope project -- altairsim cpm22-buffered.toml --mcp
+mkdir Documentation Reference
 ```
+
+Copy only the files that the project needs: the machine file and its disk.
 
 Put your manuals (PDF) in `Documentation`.
 
@@ -52,6 +61,18 @@ Close-out, when I say "We're done for today": stop anything that still runs, che
 ```
 
 After that, start each session with `Let's start.` and end it with `We're done for today.`
+
+**The change in the second session.** ([fib-input.txt](prompts/fib-input.txt))
+
+```
+Change FIB.BAS so it asks for the upper limit with INPUT instead of always using 100. Run it with 1000, and save it.
+```
+
+**Add a task to a checklist.** An example: ([startup-task.txt](prompts/startup-task.txt))
+
+```
+Add to the start-up checklist: check Documentation for new files, and ask me before you convert one.
+```
 
 ## 4. Start again from a known disk (Terminal, with Claude stopped)
 

@@ -1,0 +1,1 @@
+Change FIB.BAS so it asks for the upper limit with INPUT instead of always using 100. Run it with 1000, and save it.

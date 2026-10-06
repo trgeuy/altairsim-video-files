@@ -1,6 +1,6 @@
 # Part 1 - Installing and running altairsim
 
-Video: https://youtu.be/VgnYONLjnp0
+Video: https://youtu.be/4fUiHYfFbdo
 
 ## Install (Terminal)
 

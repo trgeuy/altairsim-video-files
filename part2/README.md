@@ -1,6 +1,6 @@
 # Part 2 - Installing Claude Code and connecting it to altairsim
 
-Video: https://youtu.be/fJCYAMyUkCo
+Video: https://youtu.be/rgRs1Zv-OPg
 
 You need a paid Claude plan (Pro or higher).
 

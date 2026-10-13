@@ -1,0 +1,1 @@
+In preparation for our next video, let's get FUJIGET on the Altair. FUJIGET is already on this Altair from earlier work; keep that copy as FUJIGET.OLD. The file FUJIGET.HEX is in this folder. Connect to the Altair 8800c (/dev/cu.usbserial-FTAJCNNY0, 9600 baud, 8N1), copy the file onto the Altair with PIP, then use LOAD to make FUJIGET.COM.

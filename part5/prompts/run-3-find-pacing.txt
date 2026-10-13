@@ -1,0 +1,1 @@
+Find pacing values that work, using these program lines. Then type NEW, type the program again, and run it.

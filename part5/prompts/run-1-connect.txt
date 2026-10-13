@@ -1,0 +1,1 @@
+List the serial ports. My Altair 8800c is on /dev/cu.usbserial-FTAJCNNY0 at 9600 baud, 8 data bits, no parity, 1 stop bit. Connect to it and show me a directory listing.

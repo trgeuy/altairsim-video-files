@@ -1,0 +1,1 @@
+Connect to my Altair 8800c (/dev/cu.usbserial-FTAJCNNY0, 9600 baud, 8N1) and keep the port open. I want to type at the Altair too, in my own terminal, while you are connected.

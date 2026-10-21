@@ -57,5 +57,6 @@ you give prompt 5, set the printer of the real FujiNet adapter to Epson 80 on it
 - Get each printout from the `/print` page of the FujiNet web page. Each download has the name
   `printout.pdf`. Some browsers replace the previous file with the same name. Rename each
   printout after you download it.
-- The source code of FUJITYPE will be added to the
-  [FujiNet CP/M tools](https://github.com/trgeuy/fujinet-cpm22).
+- FUJITYPE and its source code are in the
+  [FujiNet CP/M tools](https://github.com/trgeuy/fujinet-cpm22), from
+  [release v1.10](https://github.com/trgeuy/fujinet-cpm22/releases/tag/v1.10) on.

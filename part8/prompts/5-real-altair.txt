@@ -1,0 +1,1 @@
+Put FUJITYPE.COM and FUJITYPE.ASM on my TNFS server. It runs on this computer and serves ~/tnfsroot. Then, on my real 8800c, get both with FUJIGET and print FUJITYPE.ASM on the real FujiNet adapter.

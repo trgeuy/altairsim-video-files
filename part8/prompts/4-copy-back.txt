@@ -1,0 +1,1 @@
+Copy FUJITYPE.ASM, FUJITYPE.PRN and FUJITYPE.COM from the Altair to the project folder.
